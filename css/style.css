@@ -1,0 +1,26 @@
+body {
+  background-color: #F3EFCC;
+}
+
+hr {
+  width: 12%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #ECE7B4;
+}
+
+h3 {
+  color: #406343;
+}
+
+p {
+  color: #32502E;
+}
+
+li {
+  color: #32502E;
+}
+
+label {
+  color: #32502E;
+}
